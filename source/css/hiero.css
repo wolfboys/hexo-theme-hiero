@@ -58,9 +58,9 @@ h6 {
 /* Links */
 a {
 	outline: none;
-	-webkit-transition: all 0.14s ease 0s; 
-	   -moz-transition: all 0.14s ease 0s; 
-		 -o-transition: all 0.14s ease 0s; 
+	-webkit-transition: all 0.14s ease 0s;
+	   -moz-transition: all 0.14s ease 0s;
+		 -o-transition: all 0.14s ease 0s;
 	}
 
 a:hover,
@@ -261,7 +261,7 @@ object {
 	}
 .site-title {
 	margin: 0;
-	font-size: 4.25em;
+	font-size: 3.25em;
 	font-family: "Yanone Kaffeesatz", "Microsoft YaHei Light", Arial, Helvetica, sans-serif;
 	text-transform: uppercase;
 	line-height: 1;
